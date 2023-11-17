@@ -1,2 +1,6 @@
 # music_rpc
-prlly shitty rpc that translates music from media panel to discord
+prlly shittiest rpc that translates music from media panel to discord
+
+requires pypresence, winsdk, nest_asyncio, so do
+```pip install pypresence winsdk nest_asyncio```
+
